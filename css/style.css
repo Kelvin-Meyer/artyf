@@ -1,0 +1,38 @@
+/* if found: please return to kelvin.click */
+body {
+    color: greenyellow;
+    background-color: black;
+    font-family: "Lucida Console";
+    text-align: center;
+}
+
+input {
+    font-family: "Lucida Console";
+    background-color: black;
+    color: greenyellow;
+    border-style: none;
+    font-size: 50px;
+    text-align: center;
+
+}
+a {
+    color: greenyellow;
+    text-decoration: none;
+}
+img {
+    width: 250px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+/* remove Google Chrome focus highlight */
+*:focus {
+    outline: none;
+}
+
+
+.yomama {
+    width: 99999999px;
+}
